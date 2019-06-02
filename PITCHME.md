@@ -1,6 +1,6 @@
 
 @snap[text-center]
-
+@snap[highlight : monokai]
 # S.O.L.I.D.
 ---
 
@@ -8,6 +8,7 @@ Single Responsibility Principle
 ---
 
 Bad Example
+
 
 	class WorkingStaffSchedule{
 		private Long id;
