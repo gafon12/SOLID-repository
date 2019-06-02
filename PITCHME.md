@@ -3,10 +3,10 @@
 
 # S.O.L.I.D.
 ---
-@snap [west span-60 text-center]
-Single REsposibility Principle
+
+Single Responsibility Principle
 ---
-@snap[west span - 20 text-origin]
+
 Bad Example
 
 	class WorkingStaffSchedule{
