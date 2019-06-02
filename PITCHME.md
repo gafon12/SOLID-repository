@@ -1,8 +1,38 @@
 
 @snap[west span-40 text-center]
 
-### S.O.L.I.D.
-@fa[quote-left](A query language for your API)
-![GRAPHQL](image/1236992_0e20-5.jpg)G
+# S.O.L.I.D.
+---
+@snap [west span-60 text-center]
 
-@snapend
+Single REsposibility Principle
+---
+@snap[west span - 20 text-origin]
+Bad Example
+
+	class WorkingStaffSchedule{
+		private Long id;
+
+		private String name, lastname, title;
+
+		private dateOfWork;
+
+		private startsWork;
+
+		prviate finishesWork;
+
+	
+	//Getters & setters
+		....
+
+
+		Employee employee = new Employee;
+		.....
+
+
+		employeeRepository.save(employee);
+		void workSchedule(){};
+		void workingHours(){};
+		void salary(){};
+		
+}
