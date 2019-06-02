@@ -1,10 +1,9 @@
 
-@snap[west span-40 text-center]
+@snap[text-center]
 
 # S.O.L.I.D.
 ---
 @snap [west span-60 text-center]
-
 Single REsposibility Principle
 ---
 @snap[west span - 20 text-origin]
